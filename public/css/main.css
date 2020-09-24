@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+    font-size: large;
+    font-style: bold;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    padding: 15px;
+    text-align: left;
+}
+
+table {
+    width: 80%;
+}
+
+th {
+    height: 20px;
+}
+
+h1 {
+    background-color: white;
+    color: black;
+}
+
+div.relative {
+    position: relative;
+    top: 80px;
+    right: 0;
+    width: 800px;
+    height: 400px;
+    border: 3px solid #4d5247;
+}
+
+.error {
+    color: #FF0000;
+}
